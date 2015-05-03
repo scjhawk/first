@@ -1,3 +1,4 @@
 This is the first line of the file.
 This is the second line of the file, edited in Github.
 This is the third line of the file, edited in nano on my computer.
+This is the fourth line, edited again in Github.
